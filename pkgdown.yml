@@ -1,0 +1,8 @@
+pandoc: 1.19.2.1
+pkgdown: 1.4.1
+pkgdown_sha: ~
+articles: []
+urls:
+  reference: https://r-lib.github.io/ghactions//reference
+  article: https://r-lib.github.io/ghactions//articles
+
